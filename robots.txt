@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rtfgbvg.cn/sitemap.xml

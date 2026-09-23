@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "4c0289988074c2ebc073a3d4",
+  "owner": "jxedmwqn",
+  "repo": "page-12717ff138e60d58474bacb1",
+  "title": "cnaidun",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "12717ff138e60d58474bacb1",
+      "a": "cnaidun",
+      "b": "机场官网线路发布页",
+      "entity": "cnaidun",
+      "brand": "cnaidun",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "ff5597e41a87dd0adb98681e652f5c19826adc733850df9989a427ad1a008c55",
+      "content": {
+        "primary_entity": "cnaidun",
+        "keyword1": "cnaidun",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，再导入订阅链接。",
+          "AI_CLIENTS_TITLE": "客户端与设备适配",
+          "AI_CLOSING_TEXT": "选择合适的套餐并配置订阅，即可开始使用 cnaidun 的海外加速服务。",
+          "AI_CLOSING_TITLE": "开启你的加速体验",
+          "AI_DESCRIPTION": "，提供多档海外加速套餐，覆盖轻量浏览到团队协作的流量与设备需求。基础版每月 100GB 流量与 3 台设备，旗舰版每月 300GB 流量与 5 台设备，团队版每月 1000GB 流量与 20 台设备，均可按年付享受优惠价格。按设备系统选择客户端并导入订阅，即可连接节点使用。",
+          "AI_FAQ_ANSWER_1": "基础版适合单人轻度使用，每月 100GB 流量、3 台设备同时在线；需要流媒体解锁或游戏加速可考虑旗舰版的 IPLC 专线。",
+          "AI_FAQ_ANSWER_2": "基础版允许 3 台设备，旗舰版 5 台，团队版 20 台。多设备场景建议按常用终端数量选择对应套餐。",
+          "AI_FAQ_ANSWER_3": "先确认设备系统，再从客户端列表中选择对应的应用，获取订阅链接后导入即可完成配置。",
+          "AI_FAQ_ANSWER_4": "年付更划算：基础版按年 ¥150，旗舰版按年 ¥350，团队版按年 ¥850，适合长期稳定使用的用户。",
+          "AI_FAQ_ANSWER_5": "旗舰版提供 IPLC 专线游戏加速优化与 7x24 优先工单支持，适合对延迟和响应速度有要求的场景。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "如何判断哪个套餐适合自己？",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时几台设备使用？",
+          "AI_FAQ_QUESTION_3": "如何为我的设备配置订阅？",
+          "AI_FAQ_QUESTION_4": "月付和年付有什么区别？",
+          "AI_FAQ_QUESTION_5": "旗舰版比其他版本多了哪些优化？",
+          "AI_FAQ_TITLE": "使用与套餐常见问题",
+          "AI_FEATURES_INTRO": "围绕套餐选择、设备需求与订阅周期展开，帮你快速定位合适的加速方案。",
+          "AI_FEATURES_TITLE": "为什么选择 cnaidun",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按上网强度匹配流量。",
+          "AI_FEATURE_TEXT_2": "从 3 台到 20 台设备同时在线，覆盖个人多终端到小团队办公。",
+          "AI_FEATURE_TEXT_3": "三个版本均支持年付，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FEATURE_TITLE_1": "多档套餐可选",
+          "AI_FEATURE_TITLE_2": "按设备数匹配",
+          "AI_FEATURE_TITLE_3": "年付更划算",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅配置，三步即可开始使用。",
+          "AI_GUIDE_TITLE": "快速开始使用 cnaidun",
+          "AI_HERO_INTRO": "cnaidun 提供多档海外加速套餐，按流量、设备数和订阅周期划分。基础版适合单人轻度使用，旗舰版面向流媒体与游戏场景，团队版满足多设备协作需求，年付可享受更实惠的价格。",
+          "AI_HERO_SUBTITLE": "多档海外加速套餐任你选",
+          "AI_HIGHLIGHT_1": "基础版 100GB / 3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版 300GB / 5 台设备",
+          "AI_HIGHLIGHT_3": "团队版 1000GB / 20 台设备",
+          "AI_PLANS_INTRO": "基础版适合单人日常浏览，旗舰版兼顾流媒体与游戏加速，团队版满足多设备协作。三个版本均可按年付享受优惠价格。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "根据日常流量和设备数量，在基础版、旗舰版、团队版中选择合适的套餐。",
+          "AI_STEP_TEXT_2": "确认自己的设备系统，查看对应的客户端适配要求。",
+          "AI_STEP_TEXT_3": "依客户端文档导入订阅链接，完成配置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "cnaidun 海外加速"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "rtfgbvg.cn",
+    "host": "rtfgbvg.cn"
+  },
+  "file_hashes": {
+    "index.html": "b88572f41e7ae5a6788b007b865c626d0a8ee21692d66ed499506dd4c3e69ab1",
+    "sitemap.xml": "7c54f0b87b5edee12a201a2ef3248a93f48e2bd857059928de38612aee6ce6c0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8a3b95950e5dae7a20e3bca92cd2d1d6f7682fb024c286dc110caeb758525fca",
+    "robots.txt": "9760c19b522f43e9322325888ae5bec0da84ba97b5f8747abb3fbdb5514b0228",
+    "8ad0fbffa4e715247283f48455528606.txt": "f0e15cb5033a2262d7c774375087f32b3ee9ea3241e62ec8a1d9ba695f953734"
+  },
+  "revision": "485749416d7b0492d9a1cfa0a5ec1db0760a5bce3bf23b58dc114e874be06e19"
+}
